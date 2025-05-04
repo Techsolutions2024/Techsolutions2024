@@ -40,8 +40,8 @@
 
 ## 📫 Kết nối
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/thiennguyen24/)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:forwork.tivasolutions@gmail.com)
 
 ---
 
